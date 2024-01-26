@@ -1,32 +1,32 @@
 * {
   margin: 25px;
   padding: 0px;
-  background-color: #fcfefe;
+  background-color: #dfdfdf;
 }
 h1 {
-  color: #f76b8a;
+  color: #232528;
   font-family: "Verdana";
 }
 p {
   font-family: "Times New Roman";
   font-size: 12;
-  color: #f76b8a;
+  color: #3c3f45;
 }
 h2 {
-  color: #f76b8a;
+  color: #232528;
   font-family: "Verdana";
 }
 
 h3 {
   font-family: "Verdana";
-  color: #f76b8a;
+  color: #232528;
 }
 ul {
-  color: #66bfbf;
+  color: #3c3f45;
 }
 
 table {
-  color: #66bfbf;
+  color: #3c3f45;
   border-style: inset;
   border-width: 5px;
   border-collapse: separate;
@@ -45,24 +45,24 @@ table img {
 }
 
 button {
-  background-color: #66bfbf;
-  color: #fcfefe;
+  background-color: #3c3f45;
+  color: #dfdfdf;
 }
 
 input {
-  background-color: #66bfbf;
-  color: #fcfefe;
+  background-color: #3c3f45;
+  color: #dfdfdf;
 }
 
 a {
-  color: #66bfbf;
+  color: #3c3f45;
 }
 
 a:active {
-  color: #fcfefe;
+  color: #dfdfdf;
 }
 
 a:visited {
-  color: #f76b8a;
+  color: #f96d00;
   outline: none;
 }
