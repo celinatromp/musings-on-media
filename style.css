@@ -58,10 +58,6 @@ a {
   color: #3c3f45;
 }
 
-a:active {
-  color: #dfdfdf;
-}
-
 a:visited {
   color: #f96d00;
   outline: none;
